@@ -19,7 +19,7 @@
     <div class="cmd"><span>/ping _ /p</span> → tiempo de respuesta</div>
     <div class="cmd"><span>/owner _ /creador</span> → info del creador</div>
     <div class="cmd"><span>/report</span> → reportar errores</div>
-    class="cmd"><span>/elpendejo _ /tonto </span> → el pendejo oficial del grupo </div> 
+    <div class="cmd"><span>/elpendejo _ /tonto</span> → el pendejo oficial del grupo </div> 
   </div>
 
   <div class="section">
@@ -30,7 +30,7 @@
 
   <div class="section">
     <h2>⚒️CREACION</h2>
-    <div class="cmd"><span>/emojimix_ /emx </span> →  mesclar emojis ej: /emojimux ✨+🖤</div>
+    <div class="cmd"><span>/emojimix_ /emx </span> →  mesclar emojis ej: /emojimix ✨+🖤</div>
   </div>
 
  <div class="section">
